@@ -1,4 +1,4 @@
-# Goreloaded
+# Text Autocorrection Tool
 
 This is a simple text completion/editing/auto-correction tool. Have fun auditing.
 
